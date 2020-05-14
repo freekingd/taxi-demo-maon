@@ -1,11 +1,8 @@
 package org.texiDemo.Tools.impl;
 
-import com.sun.org.apache.xpath.internal.operations.Or;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.texiDemo.Tools.Billing;
 import org.texiDemo.entity.Order;
-
-import java.util.Date;
 
 /**
  * @program: seckill
